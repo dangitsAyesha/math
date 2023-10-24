@@ -1,0 +1,35 @@
+body {
+	
+	background-image: url("project_89.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	
+  }
+  
+  .login_div1, .login_div2 {
+	text-align: center;
+	background: white;
+	padding: 10px;
+	border-radius: 15px;
+  }
+  
+  #p1_login, #p2_login {
+	display: inline-block;
+	margin-left: 20px;
+  }
+  
+#output{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+
+.number1, .number2
+{
+	
+	text-align: center;
+}
